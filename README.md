@@ -76,3 +76,15 @@ yarn add redux react-redux redux-persist -s
 
 in index.html
     <script src="https://kit.fontawesome.com/88a8522bf8.js" crossorigin="anonymous"></script>
+
+https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+https://www.codecademy.com/articles/f1-u3-github-pages
+
+yarn add gh-pages --save-dev
+
+yarn deploy
+
+https://ultimatefergal.github.io/miniAddTodo/
