@@ -26,6 +26,7 @@ let styles= {
     completedIcon: {
         fontSize: 20,
         color: 'springgreen',
+        cursor: 'pointer',
     },
     deleteIcon: {
         fontSize: 20,
